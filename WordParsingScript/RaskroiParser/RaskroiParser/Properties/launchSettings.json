@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RaskroiParser": {
+      "commandName": "Project",
+      "docDirectory": "",
+      "parsedFilesDirectory": ""
+    }
+  }
+}

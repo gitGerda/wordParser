@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tw4yghANgzuWAbLJhMdytf/wGonhwqUjPfhMJE39wrIa5X6vKihM8JUmb3Oi+BeDp6HUm80lJMd4TSuK9W683w==",
+  "success": true,
+  "projectFilePath": "A:\\WORK\\PROJECTS\\WordParsingScript\\RaskroiParser\\RaskroiParser\\RaskroiParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gordeevsv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

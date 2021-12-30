@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mWsVwEOSL0LAfMWZqLtBqI6EFMVJ41msBupaJ1FdIdjdduaIDffnM7FHOwnS1qQzc036m0xndsa8y/94u5ssQw==",
+  "success": true,
+  "projectFilePath": "A:\\WORK\\PROJECTS\\WordParsingScript\\RaskroiParser\\RaskroiParser\\RaskroiParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gordeevsv\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.21\\microsoft.netcore.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\gordeevsv\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.21\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\gordeevsv\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.21\\microsoft.aspnetcore.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\gordeevsv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

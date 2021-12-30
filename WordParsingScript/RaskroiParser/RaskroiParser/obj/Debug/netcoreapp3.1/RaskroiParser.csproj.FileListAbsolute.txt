@@ -1,0 +1,14 @@
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Debug\netcoreapp3.1\RaskroiParser.exe
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Debug\netcoreapp3.1\RaskroiParser.deps.json
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Debug\netcoreapp3.1\RaskroiParser.runtimeconfig.json
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Debug\netcoreapp3.1\RaskroiParser.runtimeconfig.dev.json
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Debug\netcoreapp3.1\RaskroiParser.dll
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Debug\netcoreapp3.1\RaskroiParser.pdb
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.csproj.AssemblyReference.cache
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.GeneratedMSBuildEditorConfig.editorconfig
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.AssemblyInfoInputs.cache
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.AssemblyInfo.cs
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.csproj.CoreCompileInputs.cache
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.dll
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.pdb
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\obj\Debug\netcoreapp3.1\RaskroiParser.genruntimeconfig.cache

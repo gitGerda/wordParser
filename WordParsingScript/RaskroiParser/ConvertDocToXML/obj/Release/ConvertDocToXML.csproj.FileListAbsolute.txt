@@ -1,0 +1,8 @@
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\bin\Release\ConvertDocToXML.exe.config
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\bin\Release\ConvertDocToXML.exe
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\bin\Release\ConvertDocToXML.pdb
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\obj\Release\ConvertDocToXML.csproj.AssemblyReference.cache
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\obj\Release\ConvertDocToXML.csproj.CoreCompileInputs.cache
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\obj\Release\ConvertDocToXML.exe
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\obj\Release\ConvertDocToXML.pdb
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\ConvertDocToXML\obj\Release\ConvertDocToXML.csproj.ResolveComReference.cache

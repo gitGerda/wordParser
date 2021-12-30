@@ -1,0 +1,5 @@
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Release\netcoreapp3.1\publish\RaskroiParser.exe
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Release\netcoreapp3.1\publish\RaskroiParser.dll
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Release\netcoreapp3.1\publish\RaskroiParser.deps.json
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Release\netcoreapp3.1\publish\RaskroiParser.runtimeconfig.json
+A:\WORK\PROJECTS\WordParsingScript\RaskroiParser\RaskroiParser\bin\Release\netcoreapp3.1\publish\RaskroiParser.pdb

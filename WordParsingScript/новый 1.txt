@@ -1,0 +1,42 @@
+<pkg:part pkg:name="/word/document.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+	<pkg:xmlData>
+		<w:document...>
+			<w:body>
+				<w:tbl>
+					<w:tblGrid>
+					<w:tr //строка
+						<w:tc>	//ячейка
+							<w:p //значение
+							
+								<w:r>
+									<w:t> //символы
+								<w:r>
+									<w:t> //символы
+								<w:r>
+									<w:t> //символы
+							
+							<w:p //значение
+							
+								<w:r>
+									<w:t> //символы
+								<w:r>
+									<w:t> //символы
+								<w:r>
+									<w:t> //символы
+								
+								
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Путь ко второй таблице:
+
+<pkg:part pkg:name="/word/document.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+	<pkg:xmlData>
+		<w:document...>
+			<w:body>
+				<w:tbl>
+				
+				<w:tbl>
+					<w:tr 
+						<w:tc>
+							<w:tbl>
+					
